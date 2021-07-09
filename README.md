@@ -11,5 +11,8 @@ Autor: José Andrés Lara
     application.properties que encuentra en el paquete src/main/resources (IdE utilizado spring-tool-suite-4)
       *Correr el proyecto directamente desde el ide para realizar pruebas o 
       *Generar War para subirlo al servidor apache tomcat 
+      
+      
+ Nota:El archivo query.sql contiene la consulta indicada en la prueba
 	  
 	  
